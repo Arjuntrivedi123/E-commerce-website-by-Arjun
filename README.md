@@ -1,2 +1,14 @@
-# E-commerce-website-by-Arjun
-A simple and responsive E-commerce website built using HTML, CSS and JavaScript. This project includes basic features like product display and add-to-cart functionality, with a clean user interface and smooth user interaction. It is designed to demonstrate fundamental frontend development skills and understanding of how an e-commerce website works.
+A simple and responsive E-commerce website built using HTML, CSS, and JavaScript. This project demonstrates basic frontend development skills with core e-commerce features like product listing and add-to-cart functionality.
+
+🚀 Features
+🛍️ Product Listing
+➕ Add to Cart functionality
+📱 Responsive Design (Mobile + Desktop)
+🎨 Clean and simple UI
+⚡ Smooth interactions using JavaScript
+
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript (Vanilla JS)
